@@ -16,4 +16,4 @@
 - **Logic Utilization:** 355 Logic Elements (4%), 118 Registers, 29 Pins
 - **Timing Closure:** Fmax = 210.61 MHz (Master 50 MHz), 114.36 MHz (25 MHz Pixel Clock)
 - **VGA Output:** 640x480 @ 60 Hz flicker-free on-the-fly raster engine (zero frame-buffer RAM)
-- 
+  
